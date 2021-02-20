@@ -1,0 +1,548 @@
+store_id,Product,Price,Weight,Price/Weight,Comment
+3,Aluminum Foil,1.99,75 sq ft,,Boulder
+3,Apple Juice,1.69,64 fl oz,,Nature's Nectar
+3,Apple Sauce,1.29,25 oz,,"Sweet Harvest, regular or cinnamon"
+3,Apples,2.99,3 lbs,,"Washington apples, various growers"
+3,"Apples, Red/Golden Delicious (and/or other), bag",3.29,3 lbs,,"Washington apples, various growers; Red Delicious, Golden Delicious, Fuji, Granny Smith"
+3,Bacon,2.99,16 oz,,Appleton Farms
+3,"Bagles, plain",1.49,20 oz,,"L'oven Fresh, 6 ct"
+3,Barbeque Sauce,0.89,18 oz,,"Burman's, original, hickory or honey"
+3,Beef Stew Meat,4.19,1 lb,,"Cattlemen's Ranch, packaged at about 1.5 lbs"
+3,"Beer, bottle, pilsener, import",5.99,6 pack,,"WernesgrÃ¼ner, Germany, 6 x 12 oz"
+3,"Brats, 4-6 pack",1.99,14 oz,,"Parkview, 6 brats, smoked, cheddar or stadium style"
+3,Bread Crumbs,0.89,15 oz,,Chef's Cupboard
+3,"Bread, 12-grain/multi-grain",1.89,24 oz,,L'oven Fresh
+3,"Breakfast Sausage, frozen",0.89,7 oz,,"Breakfast Best, 10 links"
+3,"Butter, real, unsalted/salted",2.29,1 lb,,Countyside Creamery
+3,"Carrots, whole",1.29,2 lbs,,Freshire Farms
+3,Cheery Pie Filling,1.79,21 oz,,Baker's Corner
+3,Cheese Singles (imitation),0.99,10.67 oz,,"Lynder, 16 slices"
+3,"Cheese, block (regular)",1.99,8 oz,,"Happy Farms, assorted varieties"
+3,"Cheese, Brie 1",2.99,6 oz,,"President, brie log (""Aldi special buy"")"
+3,"Cheese, Parmesan, jar",2.39,8 oz,,"Reggano, 100% real grated"
+3,"Cheese, shredded, Mexican style",2.79,12 oz,,Happy Farms
+3,"Cheese, shredded, Mozarella",2.99,16 oz,,Happy Farms
+3,"Cheese, sliced, regular",1.99,8 oz,,"Happy Farms, 10 slices"
+3,"Chicken Breasts, frozen",5.49,3 lbs,,Kirkwood
+3,"Chicken Nuggets, frozen",3.99,32 oz,,Kirkwood
+3,"Chicken Tenderloins, frozen",5.99,2.5 lbs,,Kirkwood
+3,"Chips, potato chips",1.49,11 oz,,"Clancy's, assorted"
+3,Chocolate Chip Cookie Dough,1.99,16 oz,,"Buehler's, makes 24 cookies"
+3,Cocoa Rice Cereal,1.69,11 oz,,Millville
+3,Coffee,4.99,17.6 oz,,"Grandessa, German Roasted, mild or regular"
+3,"Cold Cuts, ham or chicken",3.29,1 lb,,"Lunch Mate, ham, chicken or turkey"
+3,"Corn Flakes, regular",1.69,18 oz,,Millville
+3,"Corn Flakes, sugar frosted",1.79,17 oz,,Millville
+3,Cottage Cheese,1.99,24 oz,,"Friendly Farms, regular or low fat"
+3,Cream Cheese,1.19,8 oz,,"Happy Farms (regular), Fit & Active (low fat, Neufchatel)"
+3,Croissants,2.49,10 oz,,"L'oven Fresh,"
+3,Bread,4.99,1,,"10 ct, mini butter croissants"
+3,Eggs,1.09,1 dozen,,"Goldhen, grade A large, white"
+3,"Fish 1, frozen (flounder)",3.99,16 oz,,"Sea Queen, 4 fillets (wild caught)"
+3,"Fish 2, frozen (tilapia)",4.49,24 oz,,"Tilapia, Sea Queen, 6 fillets"
+3,"Fish 3, frozen",3.99,24 oz,,"Mahi Mahi, Sea Queen, 4 fillets (wild caught)"
+3,Fish,3.99,1 lb,,Cod
+3,"Flour, all purpose",1.59,5 lbs,,"Baker's Corner, enriched and bleached"
+3,"Flour, self rising",1.59,5 lbs,,"Baker's Corner, enriched and bleached"
+3,"French Fries, frozen",1.89,32 oz,,Season's Choice
+3,"Fruit 1, frozen (strawberries)",1.99,16 oz,,"Season's Choice, strawberry or mixed fruit"
+3,"Fruit 2, frozen",2.99,16 oz,,"Season's Choice, raspberries or ""Triple Berry Blend"""
+3,Cherries,3.99,1 lb,,
+3,"Granola Bars, high fiber",1.89,7 oz,,"Millville, 6 bars, chocolate or peanut butter"
+3,"Granola Bars, regular",1.59,8.4 oz,,"Millville, 10 bars, assorted flavors"
+3,Grapes,2.99,2 lbs,,"King Fresh, Produce Kountry and other growers, seedless"
+3,"Green Beans, canned",0.59,14.5 oz,,"Happy Harvest, French style or cut"
+3,"Ground Beef (chuck, 80/20)",2.89,1 lb,,All natural
+3,"Ground Beef (sirloin, 90/10)",3.49,1 lb,,All natural
+3,"Ground Beef, frozen",2.79,1 lb,,"No name, 85%, all natural"
+3,Ground Turkey,2.99,19.2 oz,,"Fit & Active, Prestage Farms"
+3,"Ground Turkey, frozen",1.69,1 lb,,Kirkwood
+3,"Ham, boneless",2.99,1 lb,,"Appleton, sliced, packaged at 2 lbs, 1/4 ham"
+3,Honey,4.49,24 oz,,"Berry Hill, clover honey, all natural, 100% pure"
+3,Honey Crunch Oats,1.89,16 oz,,Millville
+3,Hot Dog Buns,0.99,12 oz,,"L'oven Fresh, 8 ct"
+3,"Hot Dogs, beef",2.29,16 oz,,"Parkview, 8 ct"
+3,"Ice Cream, premium",2.49,1.75 qt,,"Belmont, assorted flavors"
+3,"Ice Cream, simple",1.99,0.5 gal,,"Sundae Shoppe, assorted flavors"
+3,"JalopeÃ±o Peppers, canned",1.19,12 fl oz,,"Tuscan Garden, rings, hotor mild"
+3,Ketchup,1.49,40 oz,,Burman's
+3,Kielbasa,1.99,16 oz,,Parkview
+3,Lemon,1.99,2 lbs,,Various growers
+3,"Lettuce, iceberg",0.99,1 head,,Capurro and other growers
+3,"Mandarin Oranges, canned",0.49,11 oz,,Sweet Harvest
+3,Margarine/Spread,0.99,16 oz,,"Countyside Creamery (""Tastes Like Butter"")"
+3,Mayonnaise,2.19,30 fl oz,,Burman's
+3,Milk,1.99,1 gal,,"Friendly Farms, whole, 2% or non fat"
+3,Milk Chocolate Bar,1.49,5.29 oz,,"Choceur, Austrian"
+3,"Mushrooms, Button, whole",0.99,8 oz,,Freshire Farms
+3,"Mushrooms, stems/pieces",0.59,4 oz,,Happy Harvest
+3,"Mustard, dijon",0.99,12 oz,,Burman's
+3,"Mustard, yellow",0.69,14 oz,,Burman's
+3,Oat Meal,1.49,15.1 oz,,"Millville, 10 packets, maple & brown sugar, also as variety pack"
+3,"Oil, Canola, 100% pure",2.69,48 fl oz,,Carlini
+3,"Oil, Olive, 100% pure",2.99,16.9 fl oz,,Carlini
+3,"Oil, Olive, extra virgin",3.49,16.9 fl oz,,Carlini
+3,"Onions, yellow",1.69,3 lbs,,Various growers
+3,"Orange Juice, not from concentrate",2.39,2 qt,,Nature's Nectar
+3,Oranges,2.99,4 lbs,,"Various growers, navel"
+3,Paper Towles,5.99,8 rolls,,"Boulder, 2-ply, 416 sheets total"
+3,Bananas,0.59,1 lb,,
+3,"Pasta, Egg Noodles",0.99,12 oz,,Reggano
+3,"Pasta, Ellbow Maccaroni",1.69,32 oz,,Reggano
+3,"Pasta, Penne Rigate",0.99,16 oz,,Reggano
+3,"Pasta, Rotini/Rotelle/Fusilli",1.49,16 oz,,"Priano, premium fusilli"
+3,"Pasta, Spaghetti",1.59,32 oz,,Reggano
+3,Peanut Butter,2.29,18 oz,,"BerryHill, creamy and crunchy"
+3,"Peanuts, roasted",2.69,16 oz,,Southern Grove
+3,Pears,1.99,2 lbs,,
+3,"Pepper, black, ground",1.99,4 oz,,"Spice Club, pure ground"
+3,"Pizza, frozen (premium)",3.89,32.7 oz,,"Mama Cozzi's, self-rising crust, pepperoni or supreme"
+3,"Pizza, frozen (simple)",1.99,21.1 oz,,"Mama Cozzi's, pepperoni, sausage, combo, extra cheese or deluxe"
+3,Plastic Wrap,1.49,200 sq ft,,Boulder
+3,"Pork Tenderloin, small",3.99,1 lb,,"Roseland, packaged at about 1.5 lbs"
+3,"Potatoes, gold (Yukon)",2.99,5 lbs,,Del Monte
+3,"Potatoes, red",2.49,5 lbs,,"Freshire Farms, Del Monte"
+3,"Potatoes, RussetÂ ",2.89,5 lbs,,"Freshire Farms, Del Monte"
+3,"Preserves, strawberry",1.59,18 oz,,"Berry Hill, strawberry"
+3,Pretzels,1.29,16 oz,,"Clancys, mini & sticks"
+3,"Ribs, Baby Back (pork, unseasoned)",3.49,1 lb,,"Roseland, packaged at about 3-5 lbs"
+3,"Rice, instant, white",2.49,28 oz,,"Rice Bowl, enriched"
+3,"Rice, regular",1.69,3 lbs,,"Rice Bowl, enriched, long grain white"
+3,Salad Dressing,1.39,16 fl oz,,"Fit & Active (reduced fat), various types; Tuscan Garden (regular), Ranch"
+3,"Salami, sliced",2.79,8 oz,,"Deli Premium, hard or Genoa salami"
+3,"Salsa, medium",1.49,24 oz,,Casa Mamita
+3,"Salt, iodized",0.35,26 oz,,"Stonemill, iodized"
+3,"Soda, bottle",0.69,2 L,,"Summit, Citrus Twist or GT Cola"
+3,"Soda, can",2.29,12 pack,,"Summit, GT Cola, Mountain Frost and other flavors"
+3,"Soup, Chicken Noodle, condensed",0.59,10.5 oz,,Chef's Cupboard
+3,"Soup, Chicken Noodle, regular",1.39,18.6 oz,,Fit & Active
+3,"Soup, Tomato, condensed",0.49,10.75 oz,,Chef's Cupboard
+3,Sour Cream,1.29,16 oz,,"Friendly Farms, regular or light"
+3,Spaghetti Sauce,1.19,24 oz,,"Reggano, traditional, meat or mushroom"
+3,"Sugar, brown",1.49,32 oz,,Baker's Corner
+3,"Sugar, powdered",1.49,32 oz,,Baker's Corner
+3,"Sugar, white",2.19,4 lbs,,Baker's Corner
+3,"Syrup, breakfast",1.59,24 fl oz,,"Aunt Maple's, regular or lite"
+3,"Tea, green, bags",1.19,1.5 oz,,"Benner, 24 Bags"
+3,Tomato Paste,0.39,6 oz,,Happy Harvest
+3,Tomato Sauce,0.29,8 oz,,Happy Harvest
+3,Tomatoes,1.59,1 lb,,"Various growers, 3ct"
+3,"Tuna, chunky, in water",0.59,5 oz,,Northern Catch
+3,"Tuna, solid, in water",1.15,5 oz,,Northern Catch
+3,"Vanilla Extract, pure (not imitation)",1.99,2 fl oz,,Stonemill
+3,"Veggies 1, frozen (peas)",0.89,16 oz,,"Happy Harvest, peas"
+3,"Veggies 2, frozen (other)",0.65,16 oz,,"Happy Harvest, corn"
+3,"Waffles, frozen",1.29,12.3 oz,,"Breakfast Best, 10 waffles"
+3,"Water, regular/drinking",2.49,12 L,,"PurAqua, 24 x 0.5 L (12 L)"
+3,"White Bread/Toast, enriched",0.79,20 oz,,L'oven Fresh
+3,"Wine, table, Cabernet",2.89,750 ml,,Winking Owl
+3,"Wine, table, Chardonnay",2.89,750 ml,,Winking Owl
+3,"Wine, table, White Zinfandel",2.89,750 ml,,Winking Owl
+3,"Yoghurt, Dannon (etc.)",1.79,16 oz,,"Friendly Farms Probiotic, assorted flavors, 4 x 4 oz, low fat"
+3,"Yogurt, Fage, w/ flavor",1.19,5.3 oz,,"Fage, various flavors (""Aldi special buy"")"
+3,"Yogurt, flavored, cup",0.39,6 oz,,"Friendly Farms, regular; Fit & Active, non fat, assorted flavors"
+3,"Yogurt, greek style, plain",0.89,6 oz,,"Friendly Farms (""Aldi special buy"")"
+3,"Yogurt, plain",1.99,32 oz,,"Fit & Active, non fat"
+1,Aluminum Foil,2.97,90 sq ft,,Great Value
+1,Apple Juice,2.68,96 fl oz,,"Great Value, from concentrate"
+1,Apple Sauce,1.98,48 oz,,"Great Value, original or cinnamon"
+1,"Apples, Gala, bag",3.57,3 lbs,,"Washington State,  other growers"
+1,"Apples, Red/Golden Delicious (and/or other), bag",5.57,5 lbs,,"Various growers, Red Delicious"
+1,Bacon,3.50,16 oz,,"Smithfield, assorted flavors"
+1,"Bagles, plain",2.48,22 oz,,"Nature's Own, 6 ct"
+1,"Baguette Rolls, frozen",2.50,1,,
+1,Baguette/French Bread,1.60,16 oz,,The Bakery at Walmart
+1,Barbeque Sauce,1.46,18 oz,,"Kraft, assorted flavors"
+1,Beef Stew Meat,4.48,1 lb,,Steak House
+1,"Beer, bottle, pilsener, import",8.47,6 pack,,"Becks, Germany, 6 x 12 oz"
+1,"Beer, cans",19.97,30 pack,,"Budweiser, 30 x 12 oz"
+1,"Brats, 4-6 pack",2.78,16 oz,,"Johnsonville, 6 brats, smoked or stadium style"
+1,Bread Crumbs,1.08,15 oz,,"Great Value, regular or Italian style"
+1,"Bread, 12-grain/multi-grain",2.98,24 oz,,Nature's Own
+1,"Breakfast Sausage, frozen",1.14,7 oz,,"Banquet, 10 links, original, beef or maple"
+1,"Butter, real, unsalted/salted",2.68,1 lb,,Great Value
+1,"Carrots, whole",1.48,2 lbs,,Various growers
+1,"Cereal, Müsli style",3.99,1,,
+1,Cheery Pie Filling,2.28,21 oz,,Comstock
+1,Cheese Singles (imitation),1.18,10.67 oz,,"Sandwich-Mate, 16 slices"
+1,"Cheese, block (regular)",2.58,8 oz,,"Kraft, assorted varieties"
+1,"Cheese, Boursin",2.98,5.2 oz,,"Boursin, garlic herb"
+1,"Cheese, Brie 1",4.48,7 oz,,Président
+1,"Cheese, Brie 2",15.98,1 lb,,"Saint Louis, double cream, wedges of about 0.25 lb"
+1,"Cheese, Parmesan, jar",8.99,1 lb,,
+1,"Cheese, shredded, Mexican style",8.68,32 oz,,"Great Value (""Fiesta Blend"")"
+1,"Cheese, shredded, Mozarella",2.24,8 oz,,Great Value
+1,"Cheese, sliced, deli",3.98,8 oz,,"Prima Della, 10 slices, assorted varieties (deli section)"
+1,"Cheese, sliced, regular",2.28,8 oz,,"Great Value, 12 slices, assorted varieties"
+1,"Cheese, wedge, deli",6.98,1 lb,,Jarlsberg (deli section)
+1,"Chicken Breasts, frozen",6.98,3 lbs,,Great Value
+1,"Chicken Nuggets, frozen",4.47,29 oz,,Great Value
+1,"Chicken Tenderloins, frozen",6.98,3 lbs,,Tyson
+1,"Chips, potato chips",2.68,10.5 oz,,"Lay's, assorted flavors"
+1,Chocolate Chip Cookie Dough,2.18,16.5 oz,,Great Value [Pillsbury: 2.58]
+1,Cocoa Rice Cereal,2.00,13.75 oz,,Great Value
+1,Coconut Milk,1.58,13.5 fl oz,,Grace
+1,Coffee,4.98,12 oz,,"8 O'Clock Coffee, Original or Colombian"
+1,"Cold Cuts, ham or chicken",3.98,1 lb,,LandO'Frost
+1,"Cold Cuts, turkey variety",7.99,1 lb,,
+1,"Corn Flakes, regular",1.88,18 oz,,Great Value
+1,"Corn Flakes, sugar frosted",2.48,23 oz,,Great Value
+1,Cottage Cheese,2.78,24 oz,,"Great Value, small & large curd, reg or fat free"
+1,Cream Cheese,1.98,8 OZ,,Great Value
+1,"Cream, heavy whipping",2.18,8 fl oz,,"Mayfield, 236 ml"
+1,Croissants,3.00,12 oz,,"The Bakery at Walmart, 6 ct"
+1,,,,,
+1,"Eggs, cage free",3.18,1 dozen,,"Great Value, large brown, Grade A"
+1,Eggs,1.88,1 dozen,,"Sunny Meadow, large white, Grade A"
+1,"Fish 1, frozen (flounder)",5.27,2 lbs,,No name/ Walmart generic; Walmart fish is Chinese. There have been health concerns with Chinese fish in the past.
+1,"Fish 2, frozen (tilapia)",4.48,16 oz,,"Tilapia, No name/Walmart generic; also see note above"
+1,"Fish 3, frozen",4.94,16 oz,,No name/ Walmart generic
+1,Fish,,,,
+1,"Flour, all purpose",1.96,5 lbs,,"Great Value, enriched, bleached & pre-sifted"
+1,"Flour, self rising",2.48,5 lbs,,"Great Value, enriched, bleached & pre-sifted"
+1,"French Fries, frozen",1.97,32 oz,,"Great Value, assorted cuts"
+1,"Fruit 1, frozen (strawberries)",2.33,16 oz,,"Great Value, strawberries"
+1,"Fruit 2, frozen",3.23,12 oz,,"Great Value, blueberries"
+1,Cherries,,,,
+1,"Granola Bars, high fiber",2.98,7 oz,,"Fiber One, 5 bars, chocolate, peanut butter or caramel"
+1,"Granola Bars, regular",2.18,6.7 oz,,"Quaker, 10 bars, assorted flavors"
+1,"Grapes, red",1.88,1 lb,,
+1,"Green Beans, canned",0.68,14.5 oz,,"Great Value, French style or cut"
+1,"Ground Beef (chuck, 80/20)",3.28,1 lb,,"Steak House, plastic roll"
+1,"Ground Beef (sirloin, 90/10)",4.18,1 lb,,"Steak House, 93/7"
+1,"Ground Beef, frozen",2.88,1 lb,,80%
+1,Ground Turkey,2.33,16 oz,,"Butterball, plastic roll"
+1,"Ground Turkey, frozen",2.88,1 lb,,Jennie-O
+1,"Ham, boneless",3.38,1 lb,,"Kentucky Legend, original or honey, packaged at 3-4 lbs"
+1,Honey,4.98,24 oz,,"Great Value, clover honey"
+1,Honey Crunch Oats,1.98,18 oz,,"Great Value (""Crunch Honey Oast"")"
+1,Hot Dog Buns,1.25,12 oz,,"Great Value, 8 ct"
+1,"Hot Dogs, beef",5.99,1,,
+1,"Ice Cream, premium",3.38,1.5 qt,,"Great Value, assorted flavors"
+1,"Ice Cream, simple",1.98,1.75 qt,,"Polar Treats, assorted flavors"
+1,"Jalopeño Peppers, canned",0.86,13.4 oz,,"Great Value, whole"
+1,Ketchup,1.24,35 oz,,Hunt's
+1,Kielbasa,2.78,16 oz,,Hillshire Farm
+1,Lemons,1.98,2 lbs,,Various growers
+1,"Lettuce, iceberg",1.18,1 head,,Fresh from Florida and other growers
+1,"Mandarin Oranges, canned",0.78,11 oz,,Great Value
+1,Margarine/Spread,1.48,15 oz,,"Blue Bonnet, regular or light"
+1,Mayonnaise,2.92,32 fl oz,,"Great Value, regular or light"
+1,Milk,2.98,1 gal,,"Great Value, Vitamin D, 2%, 1%"
+1,Milk Chocolate Bar,2.23,4.4 oz,,Lindt
+1,"Milk, organic",3.38,2 qt,,"Great Value, Vitamin D, 2%, fat free"
+1,"Mushrooms, Button, whole",3.48,16 oz,,Monterey
+1,"Mushrooms, stems/pieces",0.98,4 oz,,Great Value
+1,"Mustard, dijon",2.92,10 oz,,Grey Poupon
+1,"Mustard, yellow",0.84,16 oz,,Great Value
+1,Nutella,3.28,13 oz,,Nutella
+1,Oat Meal,1.68,15 oz,,"Great Value, 10 packets, assorted flavors, also as variety pack "
+1,"Oil, Canola, 100% pure",3.58,48 fl oz,,Great Value
+1,"Oil, Olive, 100% pure",4.88,25.5 fl oz,,Great Value
+1,"Oil, Olive, extra virgin",5.58,17 fl oz,,Great Value
+1,"Onions, yellow",3.48,3 lbs,,Basin Gold
+1,"Orange Juice, not from concentrate",2.12,2 qt,,Great Value (1.85 qt)
+1,Oranges,4.98,4 lbs,,"Various growers, navel"
+1,"Pancetta or Ham, diced",3.18,4 oz,,Fiorucci
+1,Paper Towles,5.97,8 rolls,,"Sparkle, 2-ply, 384 sheets total"
+1,,,,,
+1,"Pasta, Egg Noodles",1.68,16 oz,,Great Value
+1,"Pasta, Ellbow Maccaroni",2.82,48 oz,,Great Value
+1,"Pasta, Penne Rigate",1.08,13.25,,Great Value
+1,"Pasta, Rotini/Rotelle/Fusilli",1.08,13.25,,Great Value
+1,"Pasta, Spaghetti",1.88,32 oz,,Great Value
+1,Peanut Butter,2.56,18 oz,,Great Value
+1,"Peanuts, roasted",2.88,16 oz,,Great Value
+1,Pears,1.77,1 lb,,"Bosc, Bartlett"
+1,"Pepper, black, ground",2.82,4 oz,,"Great Value, pure ground"
+1,Pizza Dough,2.24,13.8 oz,,Pillsbury
+1,"Pizza, frozen (premium)",4.25,28.3 oz,,"Great Value, rising crust, assorted styles"
+1,"Pizza, frozen (simple)",3.33,20 oz,,"Red Baron (""Classic Crust"")"
+1,Plastic Wrap,1.53,200 sq ft,,Glad
+1,"Pork Tenderloin, small",3.98,1 lb,,"Tyson, packaged at around 3 lbs"
+1,"Potatoes, gold (Yukon)",4.47,5 lbs,,Various growers
+1,"Potatoes, red",2.97,5 lbs,,Various growers
+1,"Potatoes, Russet ",4.47,5 lbs,,Various growers
+1,"Preserves, strawberry",2.08,18 oz,,"Great Value, strawberry"
+1,Pretzels,2.98,16 oz,,"Snyder's, mini or sticks"
+1,Red Cabbage,0.79,1 lb,,
+1,"Ribs, Baby Back (pork, unseasoned)",3.98,1 lb,,Tyson
+1,"Ribs, Spare Back (pork, unseasoned)",2.98,1 lb,,Tyson
+1,"Rice, instant, white",2.48,28 oz,,"Great Value, enriched"
+1,"Rice, regular",1.28,2 lbs,,"Great Value, enriched, long grain white"
+1,Salad Dressing,1.66,16 fl oz,,"Great Value, assorted flavors"
+1,"Salami, sliced",2.48,4.5 oz,,"Hormel or Fiorucci, deli section"
+1,"Salami, whole (1)",3.98,7 oz,,"Daniele, assorted varieties"
+1,"Salami, whole (2)",7.49,1 lb,,
+1,"Salsa, medium",1.98,24 oz,,Great Value
+1,"Salt, iodized",0.72,26 oz,,"Morton, iodized"
+1,"Soda, bottle",1.38,2 L,,"Pepsi, 7up, Dr. Pepper, etc."
+1,"Soda, bottle (Coke product)",1.38,2 L,,"Coca-Cola, etc."
+1,"Soda, can",3.98,12 pack,,"7up, Dr. Pepper, A&W Root Beer,etc."
+1,"Soda, can (Coke product)",3.98,12 pack,,"Coca-Cola, etc."
+1,"Soup, Chicken Noodle, condensed",0.64,10.5 oz,,Great Value
+1,"Soup, Chicken Noodle, regular",1.48,18.5 oz,,"Progresso, light"
+1,"Soup, organic",1.98,14.5 oz,,"Amy's, assorted flavors"
+1,"Soup, Tomato, condensed",0.64,10.75 oz,,Great Value
+1,"Soup, Tomato, regular",1.48,19 oz,,"Progresso (""creamy tomato basil"")"
+1,Sour Cream,1.58,16 oz,,"Great Value, regular, light or fat free"
+1,Spaghetti Sauce,1.33,26 oz,,"Great Value, assorted flavors"
+1,"Sugar, brown",1.88,32 oz,,Great Value
+1,"Sugar, powdered",1.88,32 oz,,Great Value
+1,"Sugar, white",2.88,5 lbs,,Great Value
+1,"Syrup, breakfast",1.98,24 fl oz,,"Great Value, regular, butter flavor, light, sugar free"
+1,"Tea, green, bags",2.18,0.91 oz,,Bigelow
+1,Tomato Paste,0.44,6 oz,,Great Value
+1,Tomato Sauce,0.34,8 oz,,Great Value
+1,"Tomatoes, slicer",1.74,1 lb,,Slicer tomatoes
+1,"Tuna, chunky, in water",0.64,5 oz,,Great Value
+1,"Tuna, solid, in water",1.12,5 oz,,StarKist
+1,Vanilla Extract,1.99,2 fl oz,,Great Value
+1,"Veggies 1, frozen (peas)",0.98,16 oz,,"Great Value, peas, corn, green beans, peas & carrots, mixed vegetables"
+1,"Veggies 2, frozen (other)",1.28,14 oz,,"Great Value, broccoli"
+1,"Waffles, frozen",1.58,9.9 oz,,"Great Value, 8 waffles, homestyle, buttermilk or blueberry"
+1,"Water, regular/drinking",3.98,14 L,,"Nestle / Deer Park, 28 x 500 ml"
+1,"Water, Sparkling/Mineral",1.50,750 ml,,San Pellegrino
+1,"White Bread/Toast, enriched",2.18,20 oz,,"Sara Lee, ""Classic White"" [Great Value: 1.00/20 oz, small slices]"
+1,"Wine, table, Cabernet",2.97,750 ml,,Oak Leaf
+1,"Wine, table, Chardonnay",2.97,750 ml,,Oak Leaf
+1,"Wine, table, White Zinfandel",2.97,750 ml,,Oak Leaf
+1,"Yoghurt, Dannon (etc.)",2.18,16 oz,,"Dannon Activa, assorted flavors, regular or light"
+1,"Yogurt, Fage, 2%, plain",1.27,7 oz,,Fage
+1,"Yogurt, Fage, w/ flavor",1.27,5.3 oz,,"Fage, strawberry, cherry or honey"
+1,"Yogurt, flavored, cup",0.33,6 oz,,"American Basics, assorted flavors, low fat"
+1,"Yogurt, greek style, plain",4.88,16 oz,,"Oikos, nonfat"
+1,"Yogurt, plain",2.18,32 oz,,"Great Value, nonfat"
+4,Aluminum Foil,2.45,75 sq ft,,"Meijer, regular strength"
+4,Apple Juice,2.69,64 oz,,"Meijer Premium, not from concentrate"
+4,Apple Sauce,2.50,46 oz,,"Mott's, original, no sugar added (natural) or cinnamon"
+4,"Apples, Gala, bag",4.99,3 lbs,,Various growers
+4,"Apples, Red/Golden Delicious (and/or other), bag",3.99,3 lbs,,Various growers
+4,Bacon,4.99,16 oz,,"Meijer, original or low sodium"
+4,"Bagles, plain",2.00,20 oz,,"Meijer Premium, 6 bagles, also cinnamon-raisin, onion and multi-grain, (= 2 for $4)"
+4,"Baguette Rolls, frozen",3.69,14 oz,,"Pepperidge Farm, 8 French dinner rolls or 6 mini baguettes"
+4,Baguette/French Bread,2.19,12 oz,,"Meijer Bakery, french bread"
+4,Barbeque Sauce,1.99,28 oz,,"Meijer, original, honey and hickory"
+4,Beef Stew Meat,4.49,1 lb,,"Meijer Premium, ""beef round chunks"""
+4,"Beer, bottle, pilsener, import",7.99,6 pack,,"Warsteiner, Gemrnay"
+4,"Beer, cans",19.99,24 pack,,"Budweiser, 24  x 12 fl oz"
+4,"Brats, 4-6 pack",3.99,14 oz,,"Johnsonville, 6 brats, assorted flavors"
+4,Bread Crumbs,1.79,24 oz,,"Meijer, original and Italian"
+4,"Bread, 12-grain/multi-grain",2.59,24 oz,,Meijer Premium
+4,"Breakfast Sausage, frozen",2.19,12 oz,,"Hormel, 12 links"
+4,"Butter, real, unsalted/salted",3.15,16 oz,,Meijer
+4,"Carrots, whole",0.99,16 oz,,"Meijer, California carrots"
+4,"Cereal, Müsli style",4.29,15.3 oz,,"Kellogg's, Müslix (with raisins, dates and almonds)"
+4,Cheery Pie Filling,3.19,21 oz,,"Comstock, ""Country Cherry"""
+4,Cheese Singles (imitation),3.19,12 oz,,"Meijer, 16 slices; best price seen: $2.99"
+4,"Cheese, block (regular)",3.19,8 oz,,"Meijer, Swiss, Cheddar and other assorted flavors"
+4,"Cheese, Boursin",5.99,5.2 oz,,"Boursin, shallot & chive or garlic & fine herbs"
+4,"Cheese, Brie 1",8.39,1 lb,,"Meijer Deli, U.S. Brie"
+4,"Cheese, Brie 2",13.99,1 lb,,Coeur de Lion
+4,"Cheese, Parmesan, jar",2.15,8 oz,,"Meijer, 100% real grated"
+4,"Cheese, shredded, Mexican style",3.19,8 oz,,Meijer
+4,"Cheese, shredded, Mozarella",3.19,8 oz,,Meijer
+4,"Cheese, sliced, deli",5.29,8 oz,,"Jarlsberg Lite, 10 slices"
+4,"Cheese, sliced, regular",2.79,6 oz,,"Meijer, Swiss, 8 slices (other types: 8 oz/10 slices)"
+4,"Cheese, wedge, deli",9.39,1 lb,,Jarlsberg
+4,"Chicken Breasts, frozen",6.49,32 oz,,Meijer
+4,"Chicken Nuggets, frozen",5.99,29 oz,,Perdue
+4,"Chicken Tenderloins, frozen",6.99,32 oz,,Cookin' Good
+4,"Chips, potato chips",2.59,8 oz,,"Meijer, assorted styles and flavors"
+4,Chocolate Chip Cookie Dough,2.59,16 oz,,"Meijer, makes 24 cookies, brake-and-bake style"
+4,Cocoa Rice Cereal,2.75,15 oz,,"Meijer, ""Cocoa Crisp"""
+4,Coconut Milk,1.49,13.5 fl oz,,Conchita
+4,Coffee,5.99,11 oz,,"Eight O'Clock, various roasts / flavors"
+4,"Cold Cuts, ham or chicken",4.99,1 lb,,"Meijer, ham or turkey, assorted flavors"
+4,"Cold Cuts, turkey variety",3.29,12 oz,,Oscar Mayer
+4,"Corn Flakes, regular",2.29,18 oz,,Meijer
+4,"Corn Flakes, sugar frosted",2.89,17 oz,,Meijer
+4,Cottage Cheese,2.55,24 oz,,"Meijer, small curd, large curd, low fat or fat free"
+4,Cream Cheese,0.99,8 oz,,"Meijer, regular or low fat (Neufchatel)"
+4,"Cream, heavy whipping",1.89,8 fl oz,,Meijer
+4,Croissants,2.39,4 oz,,"Meijer Bakery, 2 ct, all butter"
+4,"Eggs, cage free",3.39,1 dozen,,"4-Grain, large, brown, grade A"
+4,Eggs,1.99,1 dozen,,"Meijer, large, white, grade A"
+4,"Fish 1, frozen (flounder)",7.99,12 oz,,"Meijer, 3 fillets"
+4,"Fish 2, frozen (tilapia)",8.99,24 oz,,"Meijer, 6 fillets"
+4,"Fish 3, frozen",7.99,32 oz,,"Meijer, Whiting, app. 8 fillets"
+4,Fish,5.99,1 lb,,Mahi mahi
+4,"Flour, all purpose",2.29,5 lbs,,"Meijer, bleached and unbleached"
+4,"Flour, self rising",2.29,5 lbs,,"Meijer, bleached"
+4,"French Fries, frozen",2.99,32 oz,,"Meijer, original, crinkle cut or seasoned"
+4,"Fruit 1, frozen (strawberries)",2.39,16 oz,,"Meijer, strawberries, whole"
+4,"Fruit 2, frozen",3.29,12 oz,,"Meijer, cherries"
+4,Cherries,5.99,1 lb,,
+4,"Granola Bars, high fiber",3.19,7 oz,,"Meijer, 5 bars, assorted flavors; best price seen: 2.19"
+4,"Granola Bars, regular",2.59,8.4 oz,,"Meijer, 10 bars, chocolate chip"
+4,"Grapes, red",1.49,1 lb,,From Chile
+4,"Green Beans, canned",0.79,14.5 oz,,"Meijer, original, Italian or French cuts and no salt added"
+4,"Ground Beef (chuck, 80/20)",3.99,1 lb,,Meijer
+4,"Ground Beef (sirloin, 90/10)",4.99,1 lb,,Meijer Fresh
+4,"Ground Beef, frozen",6.99,1 lb,,
+4,Ground Turkey,4.39,16 oz,,Plainville Farms
+4,"Ground Turkey, frozen",3.99,1 lb,,
+4,"Ham, boneless",3.99,1 lb,,"Hormel, ""dinner ham,"" quarters"
+4,Honey,9.49,48 oz,,"North American, (3 lbs)"
+4,Honey Crunch Oats,2.85,14.5 oz,,"Meijer, ""honey & oats"""
+4,Hot Dog Buns,0.99,13 oz,,"Meijer, 8 ct"
+4,"Hot Dogs, beef",3.59,16 oz,,"Meijer, ""Jumbo Beef Franks,"" 8 ct"
+4,"Ice Cream, premium",4.59,0.5 gal,,"Meijer Premium, assorted natural flavors"
+4,"Ice Cream, simple",2.99,0.5 gal,,"Meijer, vanilla, chocolate, Neapolitan"
+4,"Jalopeño Peppers, canned",2.49,26 oz,,"La Costeña, whole"
+4,Ketchup,1.99,36 oz,,Meijer
+4,Kielbasa,3.49,16 oz,,Carolina Pride
+4,Lemons,1.99,for 3,,"Sunkist, app. 12 oz"
+4,"Lettuce, iceberg",1.69,1 head,,Various growers
+4,"Mandarin Oranges, canned",0.97,11 oz,,Meijer
+4,Margarine/Spread,2.47,15 oz,,"I Can't Believe It's Not Butter, original, olive oil or light"
+4,Mayonnaise,2.79,32 oz,,Sauer's
+4,Milk,3.39,1 gal,,"Meijer, whole, 2%, 1% or fat free; best price seen: $2.99"
+4,Milk Chocolate Bar,2.59,3.5 oz,,"Lindt, Swiss, ""Extra Creamy"""
+4,"Milk, organic",3.89,2 qt,,"Meijer GreenWise, reduced fat and fat free"
+4,"Mushrooms, Button, whole",2.50,8 oz,,Meijer
+4,"Mushrooms, stems/pieces",1.59,13.25 oz,,"Meijer, dry weight 8 oz"
+4,"Mustard, dijon",1.69,12 oz,,Meijer
+4,"Mustard, yellow",1.15,16 oz,,Meijer
+4,Nutella,3.99,13 oz,,Nutella
+4,Oat Meal,1.50,11.8 oz,,"Meijer, 12 packets (original); same price but 10 packs: variety pack, maple & brown sugar, cinnamon & spice, apple & cinnamon"
+4,"Oil, Canola, 100% pure",3.85,48 fl oz,,Meijer
+4,"Oil, Olive, 100% pure",9.39,34 fl oz,,Meijer
+4,"Oil, Olive, extra virgin",9.99,34 fl oz,,Meijer
+4,"Onions, yellow",2.99,3 lbs,,Meijer
+4,"Orange Juice, not from concentrate",2.99,59 fl oz,,"Meijer Premium, 1.8 qt"
+4,Oranges,3.49,4 lbs,,"Various growers, Florida"
+4,"Pancetta or Ham, diced",10.99,8 oz,,"Cumberland Gap, diced ham"
+4,Paper Towles,1.33,1 roll/105 sheets,,"Meijer, (= 3 for $4)"
+4,"Pasta, Egg Noodles",1.79,16 oz,,"Meijer, extra wide, wide, medium and fine"
+4,"Pasta, Ellbow Maccaroni",0.99,16 oz,,Meijer
+4,"Pasta, Penne Rigate",0.99,16 oz,,"Mueller's, whole grain"
+4,"Pasta, Rotini/Rotelle/Fusilli",0.99,16 oz,,Ronzoni
+4,"Pasta, Spaghetti",0.99,16 oz,,Meijer
+4,Peanut Butter,3.29,18 oz,,"Meijer or Peter Pan, crunchy and creamy"
+4,"Peanuts, roasted",2.99,16 oz,,"Meijer, unsalted, lightly salted or salted"
+4,Pears,0.99,1 lb,,Bosc
+4,"Pepper, black, ground",2.49,4 oz,,"Meijer, pure ground"
+4,Pizza Dough,2.79,13.8 oz,,"Pillsbury, ""Pizza Crust,"" pop-open roll; best price seen: 3 for $6"
+4,"Pizza, frozen (premium)",5.89,28 oz,,"Meijer Premium, assorted toppings, (weights vary)"
+4,"Pizza, frozen (simple)",3.99,22 oz,,"Meijer, 4 cheeses, pepperoni or supreme"
+4,Plastic Wrap,2.69,200 sq ft,,Meijer
+4,"Pork Tenderloin, small",6.49,1 lb,,"Meijer, packaged at 1-2 lbs"
+4,"Potatoes, gold (Yukon)",4.99,5 lbs,,Meijer
+4,"Potatoes, red",4.69,5 lbs,,Meijer
+4,"Potatoes, Russet ",2.99,5 lbs,,Meijer
+4,"Preserves, strawberry",2.29,18 oz,,"Meijer, not Jelly, (other flavors = different price)"
+4,Pretzels,1.99,16 oz,,"Meijer, mini twist, large twist, pretzel sticks"
+4,Red Cabbage,1.69,16 oz,,Aunt Nellie's
+4,"Ribs, Baby Back (pork, unseasoned)",12.00,1 lb,,
+4,"Ribs, Spare Back (pork, unseasoned)",3.99,1 lb,,
+4,"Rice, instant, white",2.79,28 oz,,Meijer
+4,"Rice, regular",2.79,3 lbs,,Meijer
+4,Salad Dressing,1.67,16 fl oz,,"Meijer, assorted flavors"
+4,"Salami, sliced",5.39,10 oz,,Meijer Deli
+4,"Salami, whole (1)",5.99,7 oz,,"Boar's Head, ""Italian Dry Salame"""
+4,"Salami, whole (2)",7.89,10.5 oz,,"Boar's Head, ""Genoa Salame"""
+4,"Salsa, medium",1.87,16 oz,,"Meijer, all natural"
+4,"Salt, iodized",0.38,26 oz,,Meijer
+4,"Soda, bottle",0.89,2 L,,"Meijer, assorted flavors, including cola,organe and root beer"
+4,"Soda, bottle (Coke product)",1.89,2 L,,Coca Cola; best price seen: 2 for $3
+4,"Soda, can",2.99,12 pack,,"Meijer, cola, lemon lime or ginger ale"
+4,"Soda, can (Coke product)",4.99,12 pack,,Coca Cola
+4,"Soup, Chicken Noodle, condensed",0.59,10.5 oz,,Meijer
+4,"Soup, Chicken Noodle, regular",1.99,18.6 oz,,Meijer
+4,"Soup, organic",2.19,14.8 oz,,"Muir Glen, assorted falvors; best price seen: 3 for $5"
+4,"Soup, Tomato, condensed",0.59,10.75,,Meijer
+4,"Soup, Tomato, regular",2.29,19 oz,,"Progresso, ""Tomato Basil"""
+4,Sour Cream,2.59,24 oz,,"Meijer, regular (light and fat free available in 16oz size)"
+4,Spaghetti Sauce,1.35,26 oz,,"Meijer, assorted flavors"
+4,"Sugar, brown",1.09,16 oz,,"Meijer, light brown"
+4,"Sugar, powdered",1.90,16 oz,,Meijer
+4,"Sugar, white",3.49,5 lbs,,Meijer
+4,"Syrup, breakfast",2.59,24 fl oz,,"Meijer, pancake and butter maple, also lite"
+4,"Tea, green, bags",3.39,1.83 oz,,"Salada, 40 bags"
+4,Tomato Paste,0.60,6 oz,,"Meijer, (= 5 for $3)"
+4,Tomato Sauce,0.65,15 oz,,"Meijer, (= 2 for 1.29)"
+4,"Tomatoes, slicer",1.69,1 lb,,"Various growers, ""premium tomatos"""
+4,"Tuna, chunky, in water",1.39,5 oz,,StarKist
+4,"Tuna, solid, in water",1.77,5 oz,,StarKist
+4,"Vanilla Extract, pure (not imitation)",5.49,2 fl oz,,Meijer
+4,"Veggies 1, frozen (peas)",1.59,16 oz,,"Meijer, peas, corn, peas & carrots"
+4,"Veggies 2, frozen (other)",1.49,16 oz,,"Meijer, broccoli"
+4,"Waffles, frozen",2.19,12.3 oz,,"Meijer, 10 waffles, homestyle, buttermilk, blueberry or multi-grain"
+4,"Water, regular/drinking",0.67,1 gal,,Meijer
+4,"Water, Sparkling/Mineral",1.50,1L,,San Pellegrino
+4,"White Bread/Toast, enriched",0.99,20 oz,,"Meijer, ""Large White"""
+4,"Wine, table, Cabernet",5.99,750 ml,,Little Penguin
+4,"Wine, table, Chardonnay",6.49,750 ml,,Lindeman's
+4,"Wine, table, White Zinfandel",5.99,750 ml,,Woodbridge
+4,"Yoghurt, Dannon (etc.)",2.19,24 oz,,"Dannon, light & fit, 4 pack (6 oz each), assorted flavors"
+4,"Yogurt, Fage, 2%, plain",1.50,7 oz,,"Fage, 200 g"
+4,"Yogurt, Fage, w/ flavor",1.50,5.3 oz,,"Fage, 150 g, cherry, strawberry, peach, mango, blueberry or honey"
+4,"Yogurt, flavored, cup",0.50,6 oz,,"Meijer, many assorted flavors incl. churros or passion fruit, also fat free and no sugar added"
+4,"Yogurt, greek style, plain",3.99,2 lbs,,"Cabot, regular and low fat"
+4,"Yogurt, plain",2.09,24 oz,,Meijer
+5,"Pasta, Penne Rigate",0.99,16 oz,,"Giant Eagle, 100% durum semolina"
+5,"Pasta, Rotini/Rotelle/Fusilli",0.99,16 oz,,"Giant Eagle, 100% durum semolina"
+5,"Pasta, Spaghetti",0.99,16 oz,,"Giant Eagle, 100% durum semolina"
+5,Peanut Butter,2.29,16 oz,,"Giant Eagle, creamy or crunchy, salted or unsalted"
+5,"Peanuts, roasted",2.69,16 oz,,"Giant Eagle, salted or unsalted"
+5,Pears,2.99,4 lbs,,"Various growers, Anjou [individual: 0.69/ea.]"
+5,"Pepper, black, ground",1.99,1.8 oz,,"Giant Eagle, whole pepper corns in plastic grinder [ground N/A]"
+5,Pizza Dough,1.09,1 lb,,"Trader Giotto, plain or wheat"
+5,"Pizza, frozen (premium)",4.99,18.25 oz,,"Trader Giotto, Parlanno (sausage, pepperoni, onions, peppers)"
+5,"Pizza, frozen (simple)",3.99,13.4 oz,,"Trader Giotto, 3 or 4 cheeses"
+5,Plastic Wrap,2.30,1,,
+5,"Pork Tenderloin, small",4.99,1 lb,,"Giant Eagle, packaged at about 2 lbs"
+5,"Potatoes, gold (Yukon)",3.49,4 lbs,,Giant Eagle
+5,"Potatoes, red",4.29,5 lbs,,"Giant Eagle, organic"
+5,"Potatoes, Russet ",3.99,5 lbs,,Giant Eagle
+5,"Preserves, strawberry",2.99,17.5 oz,,"Giant Eagle, strawberry, cherry, blueberry or blackberry (all kosher)"
+5,Pretzels,1.39,8 oz,,"Giant Eagle, multi-grain pretzel nuggets"
+5,Red Cabbage,0.39,1 lb,,
+5,"Ribs, Baby Back (pork, unseasoned)",4.49,1 lb,,"Giant Eagle, packed at around 2 lbs"
+5,"Ribs, Spare Back (pork, unseasoned)",12.99,1 lb,,
+5,"Rice, instant, white",2.59,1 bag,,
+5,"Rice, regular",3.29,3 lbs,,"Giant Eagle, 100% genuine jasmine, whiet or brown"
+5,Salad Dressing,1.99,8 oz,,"Giant Eagle, assorted flavors"
+5,"Salami, sliced",3.99,5 oz,,"Columbus (""Salame Calabrese"")"
+5,"Salami, whole (1)",5.99,1,,
+5,"Salami, whole (2)",7.99,1,,
+5,"Salsa, medium",1.69,12 oz,,"Giant Eagle (""Salsa Autentica"")"
+5,"Salt, iodized",1.99,26.5 oz,,"Giant Eagle, sea salt"
+5,Soda,1.59,1 bottle,,
+5,"Soda, bottle (Coke product)",2.59,1 bottle,,
+5,"Soda, can",2.69,6 pack (12 fl oz cans),,"Hansen's Natural Cane Soda, assorted flavors"
+5,"Soda, can (Coke product)",0.99,1 can,,
+5,"Soup, Chicken Noodle, condensed",0.99,1 can,,
+5,"Soup, Chicken Noodle, regular",1.99,15 oz,,"Giant Eagle, low fat"
+5,"Soup, organic",1.99,14.5 oz,,"Giant Eagle, vegetable only, vegetarian or vegan"
+5,"Soup, Tomato, condensed",0.99,1 can,,
+5,"Soup, Tomato, regular",2.49,32 oz,,"Giant Eagle, tetra pack, organic"
+5,Sour Cream,1.79,1 lb,,"Giant Eagle, regular or light"
+5,Spaghetti Sauce,2.29,25 oz,,"Giant Eagle, with mushrooms, organic"
+5,"Sugar, brown",3.49,24 oz,,"Giant Eagle, organic"
+5,"Sugar, powdered",2.79,16 oz,,"Giant Eagle, organic"
+5,"Sugar, white",3.49,32 oz,,"Giant Eagle, organic, evaporated cane juice"
+5,"Syrup, breakfast",17.99,32 oz,,"Giant Eagle, 100% pure"
+5,"Tea, green, bags",1.99,3.4 oz,,"Giant Eagle, 48 bags"
+5,Tomato Paste,0.89,6 oz,,"Giant Eagle, organic"
+5,Tomato Sauce,1.49,15 oz,,"Giant Eagle, organic"
+5,"Tomatoes, slicer",0.79,each,,"Individual, beef steak tomatoes"
+5,"Tuna, chunky, in water",1.49,6.5 oz,,Giant Eagle
+5,"Tuna, solid, in water",1.49,5 oz,,"Giant Eagle, albacore"
+5,"Vanilla Extract, pure (not imitation)",4.99,4 fl oz,,Giant Eagle
+5,"Veggies 1, frozen (peas)",1.29,16 oz,,"Giant Eagle, peas or cut white corn"
+5,"Veggies 2, frozen (other)",1.49,24 oz,,"Giant Eagle, green beans, spinach, mixed vegetables"
+5,"Waffles, frozen",1.99,11 oz,,"Giant Eagle, 8 ct., regular, blueberry, wheat free"
+5,"Water, regular/drinking",0.49,1.5L,,"Giant Eagle, Mountain Spring Water"
+5,"Water, Sparkling/Mineral",0.79,1L,,Giant Eagle
+5,"White Bread/Toast, enriched",3.49,24 oz,,"Giant Eagle, soft white, organic (not enriched)"
+5,"Wine, table, Cabernet",2.79,750 ml,,"Giant Eagle, Charles Shaw Blend (""Two Buck Chug"")"
+5,"Wine, table, Chardonnay",2.79,750 ml,,"Giant Eagle, Charles Shaw Blend (""Two Buck Chug"")"
+5,"Wine, table, White Zinfandel",2.79,750 ml,,"Giant Eagle, Charles Shaw Blend (""Two Buck Chug"")"
+5,"Yoghurt, Dannon (etc.)",1.99,16 oz,,"Giant Eagle, probiotic, organic, 4x4 oz, assorted flavors"
+5,"Yogurt, Fage, 2%, plain",1.49,7 oz,,Fage (200 g)
+5,"Yogurt, Fage, w/ flavor",1.49,5.3 oz,,"Fage, honey, strawberry or cherry (150 g)"
+5,"Yogurt, flavored, cup",0.79,6 0z,,"Giant Eagle (""French Village""), nonfat, assorted flavors"
+5,"Yogurt, greek style, plain",1.99,16 oz,,Giant Eagle
+5,"Yogurt, plain",2.99,32 oz,,"Giant Eagle, organic, regular, nonfat or European style"
